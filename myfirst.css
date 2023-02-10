@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+.navcolor{background-color: #36a00c;}
+.navcolor ul li a{
+    color: white !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important; 
+    cursor: pointer;
+}
+.navcolor ul li a:hover{
+    color: black !important; 
+    background-color: white;
+}
+/* Navbar End */
+
+.bottomline{
+    border-bottom: 2px solid grey;
+}
+/* First Section End */
+
+.backcolor {background-color: #36a00c !important; margi}
+.liststyle li {list-style: none; font-style: italic;}
+.liststyle li a {text-decoration: none;}
+.liststyle a {text-decoration: none;}
+.img-thumbnail{border: none !important; line-height: none !important;}
+/* Footer End */
